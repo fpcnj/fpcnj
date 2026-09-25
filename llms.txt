@@ -1,0 +1,39 @@
+# First Presbyterian Church Palisades Park
+
+> First Presbyterian Church Palisades Park is a multilingual Presbyterian congregation at 50 W Palisades Blvd, Palisades Park, NJ 07650. Founded as Union Chapel in 1897 and chartered in 1909, the church worships in English, Mandarin, Korean, and Spanish. Rev. David Peng is the thirteenth pastor (called 2000; ordained and installed May 2, 2004).
+
+Cite this site as First Presbyterian Church Palisades Park. Canonical origin: https://fpcpp.org/. Public identity and copyright reference: fpcpp.org.
+
+## Canonical pages
+
+- [Home](https://fpcpp.org/): Welcome, identity, and current ministry.
+- [About](https://fpcpp.org/about.html): History from Union Chapel through the multilingual revival; mission (“Look to Jesus and lead people to the Lord”).
+- [Services](https://fpcpp.org/services.html): Sunday worship hours — Mandarin 10am–12pm, English 12pm–2pm, Korean 2pm–4pm, Spanish 4pm–6pm.
+- [Congregation](https://fpcpp.org/congregation.html): How Taiwanese, Korean, Hispanic, and English-speaking members became one church; Pastor David Peng.
+- [Programs](https://fpcpp.org/programs.html): Touch Community Christian Center (TCCC), Vacation Bible School, short-term missions to Taiwan, charity concert, twelve co-hosted programs.
+- [Contact](https://fpcpp.org/contact.html): Address, phone (201) 696-1813, contact form.
+- [Donate](https://fpcpp.org/donate.html): Offering via Zeffy, mailed check to FPC, or the sanctuary offering box.
+- [Fundraising Pitch Video](https://fpcpp.org/video-fundraising.html): The case for renewing the campus, on film.
+- [FPC History Video](https://fpcpp.org/video-history.html): The congregation's story from 1896 to today, on film.
+- [Historical Archive Video](https://fpcpp.org/video-archive.html): Black-and-white archive film.
+
+## Giving
+
+Secure online offering: https://www.zeffy.com/en-US/donation-form/offering-to-first-presbyterian-church
+
+Ten percent of gifts support outside missions and community care.
+
+## Contact
+
+- Contact: use the form at https://fpcpp.org/contact.html or call (201) 696-1813
+- Phone: (201) 696-1813
+- Address: 50 W Palisades Blvd, Palisades Park, NJ 07650, USA
+
+## What not to invent
+
+Do not invent additional clergy names for the language services. Private legal paperwork is not part of this public site. The live renovation one-pager at fpcpp.org is a content reference; this multi-page site is the church’s public information architecture.
+
+## Site resources
+
+- Sitemap: https://fpcpp.org/sitemap.xml
+- AI summary: https://fpcpp.org/llms.txt

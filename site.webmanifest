@@ -1,0 +1,12 @@
+{
+  "name": "First Presbyterian Church Palisades Park",
+  "short_name": "FPC Palisades Park",
+  "description": "A multilingual Presbyterian congregation in Palisades Park, New Jersey, worshiping since 1909.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f0e4",
+  "theme_color": "#1a2744",
+  "icons": [
+    { "src": "image/fpc%20logo.png", "sizes": "1000x1000", "type": "image/png", "purpose": "any" }
+  ]
+}
